@@ -1,2 +1,6 @@
 1234
 3421
+print(a)
+asgasd  sdf
+    dfsa
+asgasd
